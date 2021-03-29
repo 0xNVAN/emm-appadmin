@@ -1,2 +1,4 @@
 # emm-appadmin
-Enterprise Mobility
+Enterprise Mobility Master
+
+"Not all those who wander are lost"
