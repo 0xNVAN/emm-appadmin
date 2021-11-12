@@ -3,11 +3,13 @@
 
 [Intune Graph API Reference](https://docs.microsoft.com/en-us/graph/api/resources/intune-graph-overview?view=graph-rest-1.0)
 
+[Intune with Apple Device Enrollment](https://docs.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios)
+
+[Intune with Samsung KNOX Enrollment](https://docs.microsoft.com/en-us/mem/intune/enrollment/android-samsung-knox-mobile-enroll)
 
 [Android API Reference](https://developer.android.com/reference)
 
 [Android Security Overview](https://source.android.com/security)
-
 
 [Apple Security Overview](https://developer.apple.com/security)
 
