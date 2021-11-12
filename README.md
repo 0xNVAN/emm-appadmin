@@ -1,8 +1,6 @@
 # emm-appadmin
 ## Enterprise Mobility Master
 
-Apple and Android references
-
 [Android API Reference](https://developer.android.com/reference)
 
 [Android Security Overview](https://source.android.com/security)
