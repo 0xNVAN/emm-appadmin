@@ -15,4 +15,6 @@
 
 [Intune with Samsung KNOX Enrollment](https://docs.microsoft.com/en-us/mem/intune/enrollment/android-samsung-knox-mobile-enroll)
 
+[Intune Training - YouTube](https://www.youtube.com/@IntuneTraining)
+
 "Not all those who wander are lost"
