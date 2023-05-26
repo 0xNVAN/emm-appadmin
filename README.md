@@ -3,6 +3,8 @@
 
 [Android API Reference](https://developer.android.com/reference)
 
+[Android Debug Bridge with MobaXterm](https://medium.com/@jerrylinjf/easy-way-to-use-adb-on-windwos-bf3d4c6037fa)
+
 [Android Security Overview](https://source.android.com/security)
 
 [Apple Security Overview](https://developer.apple.com/security)
