@@ -11,12 +11,14 @@
 
 [Apple TLS Security Reference](https://support.apple.com/en-au/guide/security/sec100a75d12/web)
 
-[Intune Graph API Reference](https://docs.microsoft.com/en-us/graph/api/resources/intune-graph-overview?view=graph-rest-1.0)
+[Microsoft Entra ID Conditional Access](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
 
-[Intune with Apple Device Enrollment](https://docs.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios)
+[Microsoft Intune Graph API Reference](https://docs.microsoft.com/en-us/graph/api/resources/intune-graph-overview?view=graph-rest-1.0)
 
-[Intune with Samsung KNOX Enrollment](https://docs.microsoft.com/en-us/mem/intune/enrollment/android-samsung-knox-mobile-enroll)
+[Microsoft Intune with Apple Device Enrollment](https://docs.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Intune Training - YouTube](https://www.youtube.com/@IntuneTraining)
+[Microsoft Intune with Samsung KNOX Enrollment](https://docs.microsoft.com/en-us/mem/intune/enrollment/android-samsung-knox-mobile-enroll)
+
+[Microsoft Intune Training - YouTube](https://www.youtube.com/@IntuneTraining)
 
 "Not all those who wander are lost"
